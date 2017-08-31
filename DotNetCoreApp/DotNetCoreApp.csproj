@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <!--<TargetFramework>net461</TargetFramework>-->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DotNetStandard\DotNetStandard.csproj" />
+  </ItemGroup>
+
+</Project>
